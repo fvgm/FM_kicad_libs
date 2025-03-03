@@ -17,5 +17,7 @@
   )
   (fp_circle (center 0 0) (end 0 -3.048)
     (stroke (width 0.1) (type default)) (fill none) (layer "F.SilkS") (tstamp 2ac7d348-0d99-47c4-a311-2db5fb70c2f6))
+  (fp_circle (center 0 0) (end 0 7.5)
+    (stroke (width 0.1) (type default)) (fill none) (layer "F.SilkS") (tstamp f944a128-7865-4c88-a6d6-3f41292a6cea))
   (pad "1" smd circle (at 0 0) (size 5.5 5.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 14c7eb23-c5c2-4269-a6a6-05af64b69f0d))
 )
