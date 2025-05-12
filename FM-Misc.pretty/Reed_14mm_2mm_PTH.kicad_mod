@@ -51,9 +51,9 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 3db1ab02-663b-41b6-b57c-76b61daef716))
   (pad "1" thru_hole circle (at -8.62 0) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 7ba908c1-5b03-48b1-be4a-bc1cf89159c5))
   (pad "2" thru_hole circle (at 8.38 0) (size 1.5 1.5) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp f68b2002-be9d-425f-834f-3d9a01599500))
-  (model ":KICAD_MY_LIBRARIES:3d_models/Misc.3dshapes/REED_SW_14.5_x_2.WRL"
-    (offset (xyz -1.07 0 1))
-    (scale (xyz 0.395 0.395 0.395))
-    (rotate (xyz -90 0 0))
+  (model ":KICAD_MY_LIBRARIES:3d_models/Misc.3dshapes/Reed_14x2mm.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
