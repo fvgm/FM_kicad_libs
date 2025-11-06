@@ -13,9 +13,10 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 7dae69be-a261-4c1a-aa6c-51de3edf8d93)
   )
-  (pad "1" smd circle (at 0 0) (size 5 5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d3a370c5-0fb9-4abb-9326-09714a7ff2a5))
-  (pad "2" smd custom (at 10.033 0) (size 1.5 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
-    (thermal_bridge_angle 45)
+  (pad "1" smd circle (at 0 0) (size 5 5) (layers "F.Cu" "F.Mask")
+    (zone_connect 2) (tstamp d3a370c5-0fb9-4abb-9326-09714a7ff2a5))
+  (pad "2" smd custom (at 10.033 0) (size 1.5 1.5) (layers "F.Cu" "F.Mask")
+    (zone_connect 2) (thermal_bridge_angle 45)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly
