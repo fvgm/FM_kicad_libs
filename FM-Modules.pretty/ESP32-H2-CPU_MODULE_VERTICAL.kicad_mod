@@ -89,6 +89,6 @@
     (chamfer_ratio 0) (chamfer top_right bottom_right)
     (zone_connect 2) (tstamp 72593ad9-d9f5-4b6f-bcc7-ac0a4d5f92e5))
   (pad "14" smd roundrect (at 7.62 0 270) (size 2 1.7) (layers "B.Cu" "B.Mask") (roundrect_rratio 0)
-    (chamfer_ratio 0.4) (chamfer top_left)
+    (chamfer_ratio 0.4) (chamfer top_left bottom_left)
     (zone_connect 2) (tstamp ea70da8e-d3a3-44b4-ba91-e773642cfbef))
 )
