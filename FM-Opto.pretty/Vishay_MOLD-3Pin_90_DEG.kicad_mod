@@ -4,7 +4,7 @@
   (tags "IR Receiver Vishay TSOP-xxxx MOLD")
   (attr through_hole)
   (fp_text reference "REF**" (at 2.5 -2.25 180) (layer "F.SilkS")
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.154)))
     (tstamp 553545d3-298d-4858-8cf7-d2f6918702e0)
   )
   (fp_text value "Vishay_MOLD-3Pin_90_DEG" (at 2.5 5 180) (layer "F.Fab") hide
@@ -48,7 +48,6 @@
   (fp_line (start 6.54 1.35) (end -1.46 1.35)
     (stroke (width 0.2) (type solid)) (layer "F.CrtYd") (tstamp 6198fc11-0fd8-4ed9-95e8-73b9011934b7))
   (pad "1" thru_hole roundrect (at 0 0) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.138) (tstamp c636a45f-7634-4533-bdc6-2e375b87e097))
-  (pad "2" thru_hole circle (at 2.54 0) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 011c9131-6b6a-4071-986b-d17beb656ec5))
   (pad "2" thru_hole circle (at 2.54 0 180) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 82561c2b-d47b-40a5-8d6f-f7a4263b0aed))
   (pad "3" thru_hole circle (at 5.08 0 180) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 5bbd0195-4a0a-4e8e-8917-7223181b56be))
   (group "" (id de0455f2-92de-4e48-81c5-c1b8d6f29665)
